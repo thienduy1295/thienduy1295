@@ -11,56 +11,36 @@
 </div>
 
 ---
+ 
+## 🙋 About Me
+ 
+> 🏢 Full-Stack Developer @ **bTaskee** · 3+ years
+> 🌏 Scaled platforms across **VN · TH · ID · MY**
+> ⚡ Migrated MeteorJS → React+TS · runtime errors **↓ 40%**
+> 🚀 Optimized MongoDB queries · API latency **7s → 1.5s**
+> 🔍 Currently open to **Full-Stack & Frontend** roles
+ 
+---
+ 
+## 🛠 Tech Stack
+ 
+| Layer | Technologies |
+|---|---|
+| 🎨 **Frontend** | ![React](https://img.shields.io/badge/React-282C34?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-282C34?style=flat-square&logo=typescript&logoColor=3178C6) ![Next.js](https://img.shields.io/badge/Next.js-282C34?style=flat-square&logo=next.js&logoColor=FFFFFF) ![TailwindCSS](https://img.shields.io/badge/Tailwind-282C34?style=flat-square&logo=tailwindcss&logoColor=06B6D4) ![Redux](https://img.shields.io/badge/Redux-282C34?style=flat-square&logo=redux&logoColor=764ABC) ![TanStack](https://img.shields.io/badge/TanStack-282C34?style=flat-square&logo=react-query&logoColor=FF4154) |
+| ⚙️ **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-282C34?style=flat-square&logo=node.js&logoColor=00F200) ![Express](https://img.shields.io/badge/Express-282C34?style=flat-square&logo=express&logoColor=FFFFFF) ![REST](https://img.shields.io/badge/REST_API-282C34?style=flat-square&logo=fastapi&logoColor=009688) |
+| 🗄️ **Database** | ![MongoDB](https://img.shields.io/badge/MongoDB-282C34?style=flat-square&logo=mongodb&logoColor=47A248) ![SQL](https://img.shields.io/badge/SQL-282C34?style=flat-square&logo=postgresql&logoColor=4169E1) |
+| 🔧 **Tools** | ![Git](https://img.shields.io/badge/Git-282C34?style=flat-square&logo=git&logoColor=F05032) ![Docker](https://img.shields.io/badge/Docker-282C34?style=flat-square&logo=docker&logoColor=2496ED) ![Jest](https://img.shields.io/badge/Jest-282C34?style=flat-square&logo=jest&logoColor=C21325) ![Cypress](https://img.shields.io/badge/Cypress-282C34?style=flat-square&logo=cypress&logoColor=17202C) ![VS Code](https://img.shields.io/badge/VS_Code-282C34?style=flat-square&logo=visual-studio-code&logoColor=007ACC) |
 
-```bash
-$ whoami
-cao-thien-duy
-
-$ cat about.txt
-Full-Stack Developer with 3+ years experience
-Scaling platforms across SEA (VN · TH · ID · MY) @ bTaskee
-Currently: Open to Full-Stack & Frontend roles
-
-$ cat stack.json
-{
-  "frontend":  ["React", "TypeScript", "Next.js", "TailwindCSS", "Redux"],
-  "backend":   ["Node.js", "Express.js", "RESTful API"],
-  "database":  ["MongoDB", "SQL"],
-  "tools":     ["Git", "Docker", "Jest", "Cypress", "Cursor AI"]
-}
-
-$ git log --oneline --graph
-* a3f91c2  migrated MeteorJS → React+TS  (runtime errors ↓ 40%)
-* 7b82e14  optimized MongoDB indexes      (API latency 7s → 1.5s)
-* 2d4c901  built enterprise data tables   (50+ ops staff · daily)
-* 9e1f3a8  scaled to 4 SEA markets        (VN, TH, ID, MY)
-
-$ ls projects/
-  taskio/          buytopia/          task-management/
-  [live demo]      [live demo]        [🏆 3rd Prize CoderSchool 2022]
-
-$ curl projects/taskio
-{
-  "name":  "TaskIO",
-  "desc":  "Multi-tenant project management platform",
-  "stack": "React 19 + TypeScript + TanStack Query + Node.js + MongoDB",
-  "demo":  "https://project-manager-omega-nine.vercel.app"
-}
-
-$ curl projects/buytopia
-{
-  "name":  "Buytopia",
-  "desc":  "Full-stack e-commerce with cart, checkout & order tracking",
-  "stack": "ReactJS + Redux + Node.js + Express.js + MongoDB",
-  "demo":  "https://buytopia.vercel.app"
-}
-
-$ echo $MOTTO
-"First, solve the problem. Then, write the code."
-
-$ _
-```
-
+---
+ 
+## 🚀 Featured Projects
+ 
+| Project | Description | Stack | Demo |
+|---|---|---|---|
+| 📋 **TaskIO** | Multi-tenant project management + real-time analytics | ![React](https://img.shields.io/badge/React_19-282C34?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-282C34?style=flat-square&logo=typescript&logoColor=3178C6) ![TanStack](https://img.shields.io/badge/TanStack-282C34?style=flat-square&logo=react-query&logoColor=FF4154) ![Node.js](https://img.shields.io/badge/Node.js-282C34?style=flat-square&logo=node.js&logoColor=00F200) ![MongoDB](https://img.shields.io/badge/MongoDB-282C34?style=flat-square&logo=mongodb&logoColor=47A248) | [🔗 Live](https://project-manager-omega-nine.vercel.app) |
+| 🛒 **Buytopia** | E-commerce with cart, checkout & order tracking | ![React](https://img.shields.io/badge/React-282C34?style=flat-square&logo=react&logoColor=61DAFB) ![Redux](https://img.shields.io/badge/Redux-282C34?style=flat-square&logo=redux&logoColor=764ABC) ![Node.js](https://img.shields.io/badge/Node.js-282C34?style=flat-square&logo=node.js&logoColor=00F200) ![MongoDB](https://img.shields.io/badge/MongoDB-282C34?style=flat-square&logo=mongodb&logoColor=47A248) | [🔗 Live](https://buytopia.vercel.app) |
+| ✅ **Task Manager** | Drag-and-drop task & file management · 🏆 3rd Prize CoderSchool 2022 | ![React](https://img.shields.io/badge/React-282C34?style=flat-square&logo=react&logoColor=61DAFB) ![Redux](https://img.shields.io/badge/Redux-282C34?style=flat-square&logo=redux&logoColor=764ABC) ![Node.js](https://img.shields.io/badge/Node.js-282C34?style=flat-square&logo=node.js&logoColor=00F200) ![MongoDB](https://img.shields.io/badge/MongoDB-282C34?style=flat-square&logo=mongodb&logoColor=47A248) | — |
+ 
 ---
 
 ## 📊 GitHub Stats
